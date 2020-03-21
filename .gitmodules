@@ -1,0 +1,8 @@
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 13.0
+[submodule "robotinafoods"]
+	path = robotinafoods
+	url = git@git.vauxoo.com:vauxoo/robotinafoods.git
+	branch = 13.0
