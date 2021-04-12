@@ -6,3 +6,7 @@
 	path = robotinafoods
 	url = git@git.vauxoo.com:vauxoo/robotinafoods.git
 	branch = 13.0
+[submodule "manufacture"]
+	path = manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 13.0
